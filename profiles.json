@@ -1,0 +1,74 @@
+// **Group members profiles**   
+// Each profile consists of (1) avatar, (2) username, (3) personal description, (4) number of "likes" the profile will receive throughout the interaction
+	
+window.others = {
+  "posts" : [
+      {
+        "avatar": "avatars/others/terrell.png",
+        "username": "T",
+        "text": "Terrell. San Jose. Like skateboard, easy-going, laid-back, adaptable, frank",
+        "likes": [12000, 40000, 120000] //3
+      },
+      {
+        "avatar": "avatars/others/allyssa.png",
+        "username": "Allyssa",
+        "text": "Hi My name is Allyssa and I’m from Oakland California. I live in Oakland. My favorite things are my baby, nature and animals. In my free time, I like going for walk with my little one. My favorite movie is Eternal sunshine of the spotless mind. My favorite place is a forest because I love hiking between trees. Four adjectives that describe me would be adventurous, caring, responsible, loyal.",
+        "likes": [10000, 50000, 88000, 11000, 11500, 120000, 15000] //7
+      },
+      {
+        "avatar": "avatars/others/tweety.png",
+        "username": "Tweety",
+        "text": "Hello, My nickname is Tweety. I’m from Wisconsin. I live in Tulsa currently. My favorite thing is Disney movies. In my free time, I like lounging around. My favorite movie is Soul, of course. My favorite place is my home. I like it because I’m just a homebody. Four adjectives that describe me would be easy-going, friendly, kind, creative.",
+		"likes": [10000, 50000] //2
+      },
+      {
+        "avatar": "avatars/others/george.png",
+        "username": "George",
+        "text": "Hello, My name is George and I’m originally from Hong Kong. I live in Palo Alto in California. My favorite things are my family and loose leaf tea. In my free time, I like playing poker with my folks. My favorite show is the iron chef. My favorite place is San Francisco. I like it because it was the first place our family lived moving from Hong Kong. It was the hardest but the best time for our family. Four adjectives that describe me would be reliable, attentive, sociable, and friendly.",
+        "likes": [10000, 12000, 40000, 80000, 120000] //5
+      },
+      {
+        "avatar": "avatars/others/josh.png",
+        "username": "Josh",
+        "text": "Hello, My name is Josh and I’m from Montana. I live in Buford Wyoming. In my free time, I like climbing rocks and hiking. My favorite place is Vedauwoo because I always have a great time there with my climbing team and it has a great campsite too. Four adjectives that describe me would be energetic, honest, determined, adventurous.",
+        "likes": [40000, 450000, 90000, 100000, 150000, 155000] //6
+      },
+    {
+        "avatar": "avatars/others/lauren.png",
+        "username": "Lauren",
+        "text": "Hi. My name is Lauren from New Jersey. I live in DC now. My favorite things are my dogs, Riley, Oscar, Pluto and cats Blaze and Rusty. In my free time, I like watching old movies with some snacks and my cats. My favorite movie is a streetcar named desire. My favorite place is my hometown Livingston NJ. I like it because of all my good childhood memories. Four adjectives that describe me would be affectionate, sensible, creative, and easy-going.",
+        "likes": [35000, 60000, 120000, 130000] //4
+      },
+      {
+        "avatar": "avatars/others/niki.png",
+        "username": "Niki",
+        "text": "Hello. My name is Niki and I’m from Oakland CA. In my free time, I like learning new kinds of stuff, making all kinds of friends having conversations about whatever. My favorite movies are Marvels. Four adjectives humble, kind, outgoing, and friendly.",
+        "likes": [20000, 21000] //2
+      },
+          {
+        "avatar": "avatars/others/zoe.png",
+        "username": "Zoe",
+        "text": "Hi My name is Zoe and I’m from Michigan. I live in Pontiac MI. In my free time, I like gardening veggies or fruits in my solarium. My favorite show is Friends. My favorite place is the solarium. I like it because I have my rocking chair, plants and books. Four adjectives describe me would be caring, earthy, productive, amiable.",
+		"likes": [45000, 50000, 110000, 150000] //4
+      },
+      {
+        "avatar": "avatars/others/lena.png",
+        "username": "Lena",
+        "text": "Hello My name is Lena. I am from Hawaii and live in Maui now. My favorite things are ice cream, music and sci-fi books. In my free time, I like to make all kinds of different things and I like to find small tasks to earn extra money. My favorite movie is Blade Runner. Four adjectives that describe me would be funny, confident, focused and relaxed.",
+        "likes": [13000, 30000, 70000, 88500, 125000] //5
+      },
+      {
+        "avatar": "avatars/others/tyler.png",
+        "username": "Tyler",
+        "text": "Hi My name is Tyler. I’m from Cincinnati Ohio. My favorite things are music and my turtle Tank. In my free time, I like making lofi playlists on Youtube. My favorite show is Mind Hunter. My favorite place is my room. Four adjectives describe me would be relaxed, independent, creative and technological.",
+        "likes": [12000, 14000, 15000, 35000, 80000, 100000, 110000, 150000, 20000] //9
+      },
+      {
+        "avatar": "avatars/others/gabe.png",
+        "username": "Gabe",
+        "text": "Hello, My name is Gabe and I’m from Minnesota. I live in St. Paul. My favorite thing is video games like Fortnite, Overwatch, Apex Legends, and Minecraft. In my free time, I like playing Rubiks cube. My favorite show is Breaking Bad. My favorite place is my basement because I can hang out with my friends. Four adjectives that describe me would be eager, easy-going, relaxed, and approachable.",
+        "likes": [12000, 14000,15000,35000,80000] //5
+      },
+
+    ]
+  };
