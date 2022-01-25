@@ -157,7 +157,7 @@ $(function() {
   			error = 1;
   			errormsg = 'Please write a bit more';
 			}
-  		if($('#description').val().length > 401) {
+  		if($('#description').val().length > 601) {
   		
   			error = 1;
   			errormsg = 'Please enter less text';
